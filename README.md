@@ -129,3 +129,23 @@ Compilar y ejecutar con:
 ```bash
 javac GestionEstudiantil.java
 java GestionEstudiantil
+```
+
+## Images
+<div align=center>
+  <img width="1169" height="876" alt="image" src="https://github.com/user-attachments/assets/14a42253-56c8-48a4-9f37-f2e046f3bfbe" />
+
+  ---
+
+  <img width="1172" height="888" alt="image" src="https://github.com/user-attachments/assets/5cb1bee3-1209-43d3-b6a0-5477adc68ab8" />
+
+  ---
+
+  <img width="1166" height="887" alt="image" src="https://github.com/user-attachments/assets/4045a97a-4562-40c0-b9f9-e4256b50d301" />
+
+  ---
+
+  <img width="1179" height="552" alt="image" src="https://github.com/user-attachments/assets/5e8d7057-00f7-4e07-b42e-a066ca3c971d" />
+
+</div>
+
